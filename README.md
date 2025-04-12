@@ -2,7 +2,7 @@
 **Overview:** Implement **K-Means, Hierarchical, DBSCAN** clustering.  
 **Technologies:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn.  
 
-#### 🚀 How to Run  
+#### How to Run  
 1. Install dependencies:  
    ```bash
    pip install -r requirements.txt
@@ -12,9 +12,6 @@
    python clustering.py
    ```
 
-#### 📊 Evaluation  
+#### Evaluation  
 - Metrics: **Elbow Method, Silhouette Score**  
 - Visualizations: **Cluster Scatter Plots, Dendrograms**  
-
-#### 🔍 Enhancements  
-- Apply **PCA for Dimensionality Reduction**
